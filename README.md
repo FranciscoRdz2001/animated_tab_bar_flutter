@@ -1,16 +1,12 @@
-# animated_tab_bar
 
-A new Flutter project.
+# Custom Widget - Animated Tab Bar Flutter
 
-## Getting Started
+This widget was created without any package.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Logo](https://i.imgur.com/0A2HqMm.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Demo
+![Demo](https://media.giphy.com/media/TB6a22hmHXLXenzh7h/giphy.gif)

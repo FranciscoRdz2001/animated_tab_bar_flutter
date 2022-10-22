@@ -12,12 +12,12 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   final List<TabModel> _tabs = [
     TabModel(
-      title: 'CODIFICACIONES',
+      title: 'Test1',
       bgColor: const Color(0xff004c59),
       tabColor: const Color(0xff01dcff),
     ),
     TabModel(
-      title: 'MODULACIONES',
+      title: 'Test2',
       bgColor: const Color(0xff341295),
       tabColor: const Color(0xffbd00ff),
     ),
